@@ -79,18 +79,31 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 ss-6489faf6 (Canada)",
-        "🇻🇳 ss-a25f3dc2 (Vietnam)",
-        "🇳🇱 ss-eca50ee3 (The Netherlands)",
-        "🇨🇦 ss-6d4c3000 (Canada)",
-        "🇺🇸 ss-ef42dd85 (United States)",
-        "🇮🇳 ss-331381f7 (India)",
-        "🇮🇳 ss-8c29415e (India)",
-        "🇻🇳 ss-45d9d034 (Vietnam)",
-        "🇻🇳 ss-3b966ce3 (Vietnam)",
-        "🇻🇳 ss-f1506206 (Vietnam)",
-        "🇻🇳 ss-4422b9a7 (Vietnam)",
-        "🇻🇳 ss-d865ca92 (Vietnam)",
+        "🇻🇪 ss-686bc8b7 (Venezuela)",
+        "🇻🇪 ss-16516def (Venezuela)",
+        "🇺🇸 ss-335746db (United States)",
+        "🇺🇸 ss-1cde00c7 (United States)",
+        "🇬🇧 ss-f463decb (United Kingdom)",
+        "🇺🇸 ss-72d42c73 (United States)",
+        "🇬🇧 ss-ff8cd36d (United Kingdom)",
+        "🇬🇧 ss-5c310e56 (United Kingdom)",
+        "🇬🇧 ss-ec1e6346 (United Kingdom)",
+        "🇬🇧 ss-45ee82a5 (United Kingdom)",
+        "🇳🇱 ss-a511505e (The Netherlands)",
+        "🇬🇧 ss-86be18c0 (United Kingdom)",
+        "🇬🇧 ss-5fd430c0 (United Kingdom)",
+        "🇬🇧 ss-49f81716 (United Kingdom)",
+        "🇬🇧 ss-fbd8b69e (United Kingdom)",
+        "🇨🇦 ss-a11d5340 (Canada)",
+        "🇻🇳 ss-362e698c (Vietnam)",
+        "🇺🇸 ss-5f51bb10 (United States)",
+        "🇳🇱 ss-50bf0f86 (Netherlands)",
+        "🇬🇧 ss-7274c0a5 (United Kingdom)",
+        "🇬🇧 ss-0cfe87ae (United Kingdom)",
+        "🇳🇱 ss-a333eee0 (The Netherlands)",
+        "🇻🇪 ss-3db4f94e (Venezuela)",
+        "🇺🇸 ss-79791b44 (United States)",
+        "🇹🇷 ss-70a8780b (Türkiye)",
         "direct"
       ]
     },
@@ -98,18 +111,31 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 ss-6489faf6 (Canada)",
-        "🇻🇳 ss-a25f3dc2 (Vietnam)",
-        "🇳🇱 ss-eca50ee3 (The Netherlands)",
-        "🇨🇦 ss-6d4c3000 (Canada)",
-        "🇺🇸 ss-ef42dd85 (United States)",
-        "🇮🇳 ss-331381f7 (India)",
-        "🇮🇳 ss-8c29415e (India)",
-        "🇻🇳 ss-45d9d034 (Vietnam)",
-        "🇻🇳 ss-3b966ce3 (Vietnam)",
-        "🇻🇳 ss-f1506206 (Vietnam)",
-        "🇻🇳 ss-4422b9a7 (Vietnam)",
-        "🇻🇳 ss-d865ca92 (Vietnam)"
+        "🇻🇪 ss-686bc8b7 (Venezuela)",
+        "🇻🇪 ss-16516def (Venezuela)",
+        "🇺🇸 ss-335746db (United States)",
+        "🇺🇸 ss-1cde00c7 (United States)",
+        "🇬🇧 ss-f463decb (United Kingdom)",
+        "🇺🇸 ss-72d42c73 (United States)",
+        "🇬🇧 ss-ff8cd36d (United Kingdom)",
+        "🇬🇧 ss-5c310e56 (United Kingdom)",
+        "🇬🇧 ss-ec1e6346 (United Kingdom)",
+        "🇬🇧 ss-45ee82a5 (United Kingdom)",
+        "🇳🇱 ss-a511505e (The Netherlands)",
+        "🇬🇧 ss-86be18c0 (United Kingdom)",
+        "🇬🇧 ss-5fd430c0 (United Kingdom)",
+        "🇬🇧 ss-49f81716 (United Kingdom)",
+        "🇬🇧 ss-fbd8b69e (United Kingdom)",
+        "🇨🇦 ss-a11d5340 (Canada)",
+        "🇻🇳 ss-362e698c (Vietnam)",
+        "🇺🇸 ss-5f51bb10 (United States)",
+        "🇳🇱 ss-50bf0f86 (Netherlands)",
+        "🇬🇧 ss-7274c0a5 (United Kingdom)",
+        "🇬🇧 ss-0cfe87ae (United Kingdom)",
+        "🇳🇱 ss-a333eee0 (The Netherlands)",
+        "🇻🇪 ss-3db4f94e (Venezuela)",
+        "🇺🇸 ss-79791b44 (United States)",
+        "🇹🇷 ss-70a8780b (Türkiye)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -121,7 +147,127 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇨🇦 ss-6489faf6 (Canada)",
+      "tag": "🇻🇪 ss-686bc8b7 (Venezuela)",
+      "server": "45.158.171.132",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "4a2rfixophdjffa8KVA4Aa"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇻🇪 ss-16516def (Venezuela)",
+      "server": "45.158.171.151",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "4a2rfixophdjffa8KVA4Aa"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-335746db (United States)",
+      "server": "45.87.175.171",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "4a2rfixophdjffa8KVA4Aa"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-1cde00c7 (United States)",
+      "server": "45.87.175.192",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "4a2rfixophdjffa8KVA4Aa"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-f463decb (United Kingdom)",
+      "server": "admin.c4.webramz.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "69MUii7VDwMqh7Hz"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-72d42c73 (United States)",
+      "server": "45.87.175.188",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "1RWwXhwfAB5gAEozU4G2Pg"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-ff8cd36d (United Kingdom)",
+      "server": "admin.c1.webramz.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "1xO2cqPazqjGfCfd"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-5c310e56 (United Kingdom)",
+      "server": "api.namasha.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-ec1e6346 (United Kingdom)",
+      "server": "series-a2-mec.samanehha.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-45ee82a5 (United Kingdom)",
+      "server": "series-a2-mec.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ss-a511505e (The Netherlands)",
+      "server": "103.106.1.92",
+      "server_port": 23492,
+      "method": "chacha20-ietf-poly1305",
+      "password": "yMX9WGPgUEcRZmlaa0YHHC"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-86be18c0 (United Kingdom)",
+      "server": "admin.c2.havij.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "AcGFEsMR6c07Txux"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-5fd430c0 (United Kingdom)",
+      "server": "admin.c3.webramz.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "Bog0ELmMM9DSxDdQ"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-49f81716 (United Kingdom)",
+      "server": "series-a2-me.samanehha.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "Bog0ELmMM9DSxDdQ"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-fbd8b69e (United Kingdom)",
+      "server": "series-a2-me.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "Bog0ELmMM9DSxDdQ"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 ss-a11d5340 (Canada)",
       "server": "142.4.216.225",
       "server_port": 80,
       "method": "chacha20-ietf-poly1305",
@@ -129,7 +275,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇻🇳 ss-a25f3dc2 (Vietnam)",
+      "tag": "🇻🇳 ss-362e698c (Vietnam)",
       "server": "160.19.78.75",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -137,7 +283,39 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ss-eca50ee3 (The Netherlands)",
+      "tag": "🇺🇸 ss-5f51bb10 (United States)",
+      "server": "45.87.175.181",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "QCXDxuDlTTMD7jtgHUjIoj"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ss-50bf0f86 (Netherlands)",
+      "server": "213.109.147.242",
+      "server_port": 62685,
+      "method": "chacha20-ietf-poly1305",
+      "password": "VpKABcOpNNA0l5G2AVOmw8"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-7274c0a5 (United Kingdom)",
+      "server": "series-a1.samanehha.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "W74XFALLLuw6m5IA"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-0cfe87ae (United Kingdom)",
+      "server": "admin.c2.webramz.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "WstuSnlu4ieA9M0L"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ss-a333eee0 (The Netherlands)",
       "server": "178.208.91.118",
       "server_port": 19805,
       "method": "chacha20-ietf-poly1305",
@@ -145,75 +323,27 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇨🇦 ss-6d4c3000 (Canada)",
-      "server": "64.74.163.82",
+      "tag": "🇻🇪 ss-3db4f94e (Venezuela)",
+      "server": "45.158.171.141",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "cvII85TrW6n0OGyfpHVS1u"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-79791b44 (United States)",
+      "server": "45.87.175.171",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "cvII85TrW6n0OGyfpHVS1u"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇹🇷 ss-70a8780b (Türkiye)",
+      "server": "185.123.101.241",
       "server_port": 990,
       "method": "chacha20-ietf-poly1305",
       "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇺🇸 ss-ef42dd85 (United States)",
-      "server": "172.233.128.126",
-      "server_port": 1866,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oXGp1+ihlfKg826H"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇳 ss-331381f7 (India)",
-      "server": "82.180.146.173",
-      "server_port": 30607,
-      "method": "aes-128-gcm",
-      "password": "162629d7-cb17-43b1-82c9-f9c7ae6cba70"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇳 ss-8c29415e (India)",
-      "server": "82.180.146.173",
-      "server_port": 35652,
-      "method": "aes-128-gcm",
-      "password": "93498539-7838-4836-b9b3-8311ffc79bcf"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇻🇳 ss-45d9d034 (Vietnam)",
-      "server": "103.186.154.18",
-      "server_port": 38388,
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇻🇳 ss-3b966ce3 (Vietnam)",
-      "server": "103.186.154.19",
-      "server_port": 38388,
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇻🇳 ss-f1506206 (Vietnam)",
-      "server": "103.186.154.20",
-      "server_port": 38388,
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇻🇳 ss-4422b9a7 (Vietnam)",
-      "server": "103.186.154.21",
-      "server_port": 38388,
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇻🇳 ss-d865ca92 (Vietnam)",
-      "server": "103.186.154.22",
-      "server_port": 38388,
-      "method": "aes-256-cfb",
-      "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
     }
   ],
   "route": {
