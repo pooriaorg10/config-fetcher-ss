@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-01T01:19:53.455854+00:00",
+  "timestamp": "2025-08-01T03:50:45.568323+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html",
@@ -34,8 +34,8 @@
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.82,
-        "last_success": "2025-08-01T01:19:53.454161+00:00",
+        "overall_score": 74.83,
+        "last_success": "2025-08-01T03:50:45.566484+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
