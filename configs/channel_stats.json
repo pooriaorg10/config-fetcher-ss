@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-13T14:14:51.138377+00:00",
+  "timestamp": "2025-08-13T16:14:21.162746+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 75.4,
-        "last_success": "2025-08-13T14:14:48.551855+00:00",
+        "last_success": "2025-08-13T16:14:18.596972+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 28220,
         "valid_configs": 65,
         "unique_configs": 65,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.98,
-        "last_success": "2025-08-13T14:14:51.137001+00:00",
+        "overall_score": 75.01,
+        "last_success": "2025-08-13T16:14:21.161424+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
