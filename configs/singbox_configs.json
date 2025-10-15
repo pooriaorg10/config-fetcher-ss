@@ -79,22 +79,22 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇸🇪 ss-b6232652 (Sweden)",
-        "🇬🇧 ss-0a8c0daa (United Kingdom)",
-        "🇫🇮 ss-a192d971 (Finland)",
-        "🇳🇱 ss-9fc30406 (The Netherlands)",
-        "🇺🇸 ss-221f09a1 (United States)",
-        "🇫🇮 ss-df7ca0d1 (Finland)",
-        "🇮🇳 ss-dbe69dd4 (India)",
-        "🇺🇸 ss-a3aea65d (United States)",
-        "🇷🇺 ss-45a77b87 (Russia)",
-        "🇿🇦 ss-79f37f77 (South Africa)",
-        "🇬🇧 ss-e7e6bcbd (United Kingdom)",
-        "🇪🇪 ss-4ea23162 (Estonia)",
-        "🇺🇸 ss-fd475070 (United States)",
-        "🇲🇾 ss-fadec88c (Malaysia)",
-        "🇬🇷 ss-941d7501 (Greece)",
-        "🇲🇽 ss-99ed1356 (Mexico)",
+        "🇸🇪 ss-7c578326 (Sweden)",
+        "🇬🇧 ss-11478836 (United Kingdom)",
+        "🇫🇮 ss-b37a970c (Finland)",
+        "🇳🇱 ss-66be7f10 (The Netherlands)",
+        "🇺🇸 ss-2e5c642f (United States)",
+        "🇺🇸 ss-83ced3d7 (United States)",
+        "🇺🇸 ss-88f5af1a (United States)",
+        "🇮🇳 ss-a5564c21 (India)",
+        "🇺🇸 ss-e40829fd (United States)",
+        "🇵🇱 ss-79773f32 (Poland)",
+        "🇩🇪 ss-0c41ec4a (Germany)",
+        "🇿🇦 ss-cf4d6874 (South Africa)",
+        "🇺🇸 ss-1f9f359f (United States)",
+        "🇬🇧 ss-1d37b14e (United Kingdom)",
+        "🇺🇸 ss-44c0e090 (United States)",
+        "🇺🇸 ss-d428d148 (United States)",
         "direct"
       ]
     },
@@ -102,22 +102,22 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇸🇪 ss-b6232652 (Sweden)",
-        "🇬🇧 ss-0a8c0daa (United Kingdom)",
-        "🇫🇮 ss-a192d971 (Finland)",
-        "🇳🇱 ss-9fc30406 (The Netherlands)",
-        "🇺🇸 ss-221f09a1 (United States)",
-        "🇫🇮 ss-df7ca0d1 (Finland)",
-        "🇮🇳 ss-dbe69dd4 (India)",
-        "🇺🇸 ss-a3aea65d (United States)",
-        "🇷🇺 ss-45a77b87 (Russia)",
-        "🇿🇦 ss-79f37f77 (South Africa)",
-        "🇬🇧 ss-e7e6bcbd (United Kingdom)",
-        "🇪🇪 ss-4ea23162 (Estonia)",
-        "🇺🇸 ss-fd475070 (United States)",
-        "🇲🇾 ss-fadec88c (Malaysia)",
-        "🇬🇷 ss-941d7501 (Greece)",
-        "🇲🇽 ss-99ed1356 (Mexico)"
+        "🇸🇪 ss-7c578326 (Sweden)",
+        "🇬🇧 ss-11478836 (United Kingdom)",
+        "🇫🇮 ss-b37a970c (Finland)",
+        "🇳🇱 ss-66be7f10 (The Netherlands)",
+        "🇺🇸 ss-2e5c642f (United States)",
+        "🇺🇸 ss-83ced3d7 (United States)",
+        "🇺🇸 ss-88f5af1a (United States)",
+        "🇮🇳 ss-a5564c21 (India)",
+        "🇺🇸 ss-e40829fd (United States)",
+        "🇵🇱 ss-79773f32 (Poland)",
+        "🇩🇪 ss-0c41ec4a (Germany)",
+        "🇿🇦 ss-cf4d6874 (South Africa)",
+        "🇺🇸 ss-1f9f359f (United States)",
+        "🇬🇧 ss-1d37b14e (United Kingdom)",
+        "🇺🇸 ss-44c0e090 (United States)",
+        "🇺🇸 ss-d428d148 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -129,7 +129,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇸🇪 ss-b6232652 (Sweden)",
+      "tag": "🇸🇪 ss-7c578326 (Sweden)",
       "server": "135.225.124.80",
       "server_port": 48172,
       "method": "chacha20-ietf-poly1305",
@@ -137,7 +137,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-0a8c0daa (United Kingdom)",
+      "tag": "🇬🇧 ss-11478836 (United Kingdom)",
       "server": "4.250.243.36",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -145,7 +145,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇫🇮 ss-a192d971 (Finland)",
+      "tag": "🇫🇮 ss-b37a970c (Finland)",
       "server": "83.147.216.70",
       "server_port": 64519,
       "method": "chacha20-ietf-poly1305",
@@ -153,7 +153,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ss-9fc30406 (The Netherlands)",
+      "tag": "🇳🇱 ss-66be7f10 (The Netherlands)",
       "server": "212.34.140.184",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -161,7 +161,23 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-221f09a1 (United States)",
+      "tag": "🇺🇸 ss-2e5c642f (United States)",
+      "server": "45.87.175.154",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "1RWwXhwfAB5gAEozU4G2Pg"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-83ced3d7 (United States)",
+      "server": "45.87.175.166",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "1RWwXhwfAB5gAEozU4G2Pg"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 ss-88f5af1a (United States)",
       "server": "45.87.175.199",
       "server_port": 8080,
       "method": "chacha20-ietf-poly1305",
@@ -169,15 +185,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇫🇮 ss-df7ca0d1 (Finland)",
-      "server": "94.237.15.214",
-      "server_port": 8443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "1Yw3JsG3gmurh7ZBjzViaD"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇳 ss-dbe69dd4 (India)",
+      "tag": "🇮🇳 ss-a5564c21 (India)",
       "server": "103.111.114.29",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
@@ -185,7 +193,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-a3aea65d (United States)",
+      "tag": "🇺🇸 ss-e40829fd (United States)",
       "server": "104.167.197.25",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
@@ -193,15 +201,23 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇷🇺 ss-45a77b87 (Russia)",
-      "server": "45.139.24.24",
+      "tag": "🇵🇱 ss-79773f32 (Poland)",
+      "server": "151.244.111.50",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
       "password": "360e21d21977dc11"
     },
     {
       "type": "shadowsocks",
-      "tag": "🇿🇦 ss-79f37f77 (South Africa)",
+      "tag": "🇩🇪 ss-0c41ec4a (Germany)",
+      "server": "185.140.14.113",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "vyXc7N61dSU9fitx3t3x8F"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇿🇦 ss-cf4d6874 (South Africa)",
       "server": "102.130.49.69",
       "server_port": 8443,
       "method": "chacha20-ietf-poly1305",
@@ -209,51 +225,35 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-e7e6bcbd (United Kingdom)",
-      "server": "192.121.113.60",
-      "server_port": 8443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "D2E6lItiRXmYERCyvPdgHz"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇪🇪 ss-4ea23162 (Estonia)",
-      "server": "188.214.36.221",
-      "server_port": 8443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "KLkFJH5K8lxvacuwBcWh6D"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇺🇸 ss-fd475070 (United States)",
-      "server": "45.87.175.157",
+      "tag": "🇺🇸 ss-1f9f359f (United States)",
+      "server": "45.87.175.175",
       "server_port": 8080,
       "method": "chacha20-ietf-poly1305",
       "password": "QCXDxuDlTTMD7jtgHUjIoj"
     },
     {
       "type": "shadowsocks",
-      "tag": "🇲🇾 ss-fadec88c (Malaysia)",
-      "server": "142.111.146.222",
-      "server_port": 8443,
+      "tag": "🇬🇧 ss-1d37b14e (United Kingdom)",
+      "server": "c1.nastuh.link",
+      "server_port": 443,
       "method": "chacha20-ietf-poly1305",
-      "password": "RYZXis51g7ctFPdkX6zA88"
+      "password": "WiitXs6BHZgSNlit"
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇷 ss-941d7501 (Greece)",
-      "server": "212.52.16.81",
-      "server_port": 8443,
+      "tag": "🇺🇸 ss-44c0e090 (United States)",
+      "server": "71.19.148.74",
+      "server_port": 443,
       "method": "chacha20-ietf-poly1305",
-      "password": "RgroEWW2ppwOWfp5kjoQoA"
+      "password": "XUMTygEM1jVYIvysXKqA5T"
     },
     {
       "type": "shadowsocks",
-      "tag": "🇲🇽 ss-99ed1356 (Mexico)",
-      "server": "138.186.140.102",
-      "server_port": 8443,
+      "tag": "🇺🇸 ss-d428d148 (United States)",
+      "server": "45.87.175.188",
+      "server_port": 8080,
       "method": "chacha20-ietf-poly1305",
-      "password": "TUmKKAffXUUXAGqtqRC0V9"
+      "password": "cvII85TrW6n0OGyfpHVS1u"
     }
   ],
   "route": {
