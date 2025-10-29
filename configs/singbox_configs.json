@@ -79,20 +79,23 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇸🇪 ss-e03c159f (Sweden)",
-        "🇬🇧 ss-ece9f8da (United Kingdom)",
-        "🇩🇪 ss-38279441 (Germany)",
-        "🇳🇱 ss-bb19385e (The Netherlands)",
-        "🇺🇸 ss-492f456d (United States)",
-        "🇺🇸 ss-9b3647ec (United States)",
-        "🇩🇪 ss-ab448207 (Germany)",
-        "🇮🇳 ss-3313b2d1 (India)",
-        "🇺🇸 ss-28f3cf03 (United States)",
-        "🇦🇹 ss-a842a647 (Austria)",
-        "🇩🇪 ss-e8ccf531 (Germany)",
-        "🇵🇱 ss-196e8375 (Poland)",
-        "🇬🇧 ss-6850d1a2 (United Kingdom)",
-        "🇵🇱 ss-23098883 (Poland)",
+        "🇸🇪 ss-5864e2ec (Sweden)",
+        "🇬🇧 ss-b69ef4cb (United Kingdom)",
+        "🇩🇪 ss-b0652b66 (Germany)",
+        "🇩🇪 ss-e0546b54 (Germany)",
+        "🇳🇱 ss-5f77e6c0 (The Netherlands)",
+        "🇺🇸 ss-b7ad8321 (United States)",
+        "🇺🇸 ss-415427c6 (United States)",
+        "🇩🇪 ss-36c7c635 (Germany)",
+        "🇮🇳 ss-d8ef3baa (India)",
+        "🇺🇸 ss-ead78987 (United States)",
+        "🇦🇹 ss-4fcd1907 (Austria)",
+        "🇩🇪 ss-737724fc (Germany)",
+        "🇵🇱 ss-7b1447de (Poland)",
+        "🇩🇪 ss-791ef733 (Germany)",
+        "🇬🇧 ss-6db90bd9 (United Kingdom)",
+        "🇵🇱 ss-15682edd (Poland)",
+        "🇩🇪 ss-13c1319f (Germany)",
         "direct"
       ]
     },
@@ -100,20 +103,23 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇸🇪 ss-e03c159f (Sweden)",
-        "🇬🇧 ss-ece9f8da (United Kingdom)",
-        "🇩🇪 ss-38279441 (Germany)",
-        "🇳🇱 ss-bb19385e (The Netherlands)",
-        "🇺🇸 ss-492f456d (United States)",
-        "🇺🇸 ss-9b3647ec (United States)",
-        "🇩🇪 ss-ab448207 (Germany)",
-        "🇮🇳 ss-3313b2d1 (India)",
-        "🇺🇸 ss-28f3cf03 (United States)",
-        "🇦🇹 ss-a842a647 (Austria)",
-        "🇩🇪 ss-e8ccf531 (Germany)",
-        "🇵🇱 ss-196e8375 (Poland)",
-        "🇬🇧 ss-6850d1a2 (United Kingdom)",
-        "🇵🇱 ss-23098883 (Poland)"
+        "🇸🇪 ss-5864e2ec (Sweden)",
+        "🇬🇧 ss-b69ef4cb (United Kingdom)",
+        "🇩🇪 ss-b0652b66 (Germany)",
+        "🇩🇪 ss-e0546b54 (Germany)",
+        "🇳🇱 ss-5f77e6c0 (The Netherlands)",
+        "🇺🇸 ss-b7ad8321 (United States)",
+        "🇺🇸 ss-415427c6 (United States)",
+        "🇩🇪 ss-36c7c635 (Germany)",
+        "🇮🇳 ss-d8ef3baa (India)",
+        "🇺🇸 ss-ead78987 (United States)",
+        "🇦🇹 ss-4fcd1907 (Austria)",
+        "🇩🇪 ss-737724fc (Germany)",
+        "🇵🇱 ss-7b1447de (Poland)",
+        "🇩🇪 ss-791ef733 (Germany)",
+        "🇬🇧 ss-6db90bd9 (United Kingdom)",
+        "🇵🇱 ss-15682edd (Poland)",
+        "🇩🇪 ss-13c1319f (Germany)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -125,7 +131,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇸🇪 ss-e03c159f (Sweden)",
+      "tag": "🇸🇪 ss-5864e2ec (Sweden)",
       "server": "135.225.124.80",
       "server_port": 48172,
       "method": "chacha20-ietf-poly1305",
@@ -133,7 +139,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-ece9f8da (United Kingdom)",
+      "tag": "🇬🇧 ss-b69ef4cb (United Kingdom)",
       "server": "4.250.243.36",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -141,7 +147,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 ss-38279441 (Germany)",
+      "tag": "🇩🇪 ss-b0652b66 (Germany)",
       "server": "81.19.141.45",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -149,7 +155,15 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ss-bb19385e (The Netherlands)",
+      "tag": "🇩🇪 ss-e0546b54 (Germany)",
+      "server": "81.19.141.45",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "0JaVeqysswWojNFmJ0PxM3"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ss-5f77e6c0 (The Netherlands)",
       "server": "212.34.140.184",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -157,7 +171,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-492f456d (United States)",
+      "tag": "🇺🇸 ss-b7ad8321 (United States)",
       "server": "45.87.175.166",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -165,7 +179,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-9b3647ec (United States)",
+      "tag": "🇺🇸 ss-415427c6 (United States)",
       "server": "45.87.175.199",
       "server_port": 8080,
       "method": "chacha20-ietf-poly1305",
@@ -173,7 +187,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 ss-ab448207 (Germany)",
+      "tag": "🇩🇪 ss-36c7c635 (Germany)",
       "server": "81.19.141.45",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -181,7 +195,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇮🇳 ss-3313b2d1 (India)",
+      "tag": "🇮🇳 ss-d8ef3baa (India)",
       "server": "103.111.114.29",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
@@ -189,7 +203,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-28f3cf03 (United States)",
+      "tag": "🇺🇸 ss-ead78987 (United States)",
       "server": "104.167.197.25",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
@@ -197,7 +211,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇦🇹 ss-a842a647 (Austria)",
+      "tag": "🇦🇹 ss-4fcd1907 (Austria)",
       "server": "95.163.176.37",
       "server_port": 8506,
       "method": "chacha20-ietf-poly1305",
@@ -205,15 +219,15 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 ss-e8ccf531 (Germany)",
+      "tag": "🇩🇪 ss-737724fc (Germany)",
       "server": "81.19.141.45",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
-      "password": "3mCD9NchPkbYIojfTHyNf0"
+      "password": "uqRX4fUWTkycxR22fA0JO9"
     },
     {
       "type": "shadowsocks",
-      "tag": "🇵🇱 ss-196e8375 (Poland)",
+      "tag": "🇵🇱 ss-7b1447de (Poland)",
       "server": "77.83.246.74",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -221,7 +235,15 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-6850d1a2 (United Kingdom)",
+      "tag": "🇩🇪 ss-791ef733 (Germany)",
+      "server": "81.19.141.45",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "x8UREe2yNuM9dvE26nwiCK"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 ss-6db90bd9 (United Kingdom)",
       "server": "89.185.84.185",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -229,11 +251,19 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇵🇱 ss-23098883 (Poland)",
+      "tag": "🇵🇱 ss-15682edd (Poland)",
       "server": "77.83.246.74",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
       "password": "zpXQ1pLJzxnBH28Xw50ne9"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪 ss-13c1319f (Germany)",
+      "server": "81.19.141.45",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "A9MWMeeHuERFESDEBcJCMq"
     }
   ],
   "route": {
