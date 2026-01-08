@@ -79,13 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇸🇪 ss-e38bbc2c (Sweden)",
-        "🇬🇧 ss-5040f4e3 (United Kingdom)",
-        "🇺🇸 ss-42a3b4f3 (United States)",
-        "🇸🇮 ss-055f8981 (Slovenia)",
-        "🇨🇦 ss-913712f7 (Canada)",
-        "🇨🇦 ss-ddbbab80 (Canada)",
-        "🇫🇮 ss-6416cc22 (Finland)",
+        "🇸🇪 ss-724096c8 (Sweden)",
+        "🇬🇧 ss-7b8fccd4 (United Kingdom)",
+        "🇺🇸 ss-e9b934cf (United States)",
+        "🇸🇮 ss-e6ccd271 (Slovenia)",
+        "🇨🇦 ss-d83b762e (Canada)",
+        "🇨🇦 ss-6244e20f (Canada)",
+        "🇫🇮 ss-ccb4914a (Finland)",
         "direct"
       ]
     },
@@ -93,13 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇸🇪 ss-e38bbc2c (Sweden)",
-        "🇬🇧 ss-5040f4e3 (United Kingdom)",
-        "🇺🇸 ss-42a3b4f3 (United States)",
-        "🇸🇮 ss-055f8981 (Slovenia)",
-        "🇨🇦 ss-913712f7 (Canada)",
-        "🇨🇦 ss-ddbbab80 (Canada)",
-        "🇫🇮 ss-6416cc22 (Finland)"
+        "🇸🇪 ss-724096c8 (Sweden)",
+        "🇬🇧 ss-7b8fccd4 (United Kingdom)",
+        "🇺🇸 ss-e9b934cf (United States)",
+        "🇸🇮 ss-e6ccd271 (Slovenia)",
+        "🇨🇦 ss-d83b762e (Canada)",
+        "🇨🇦 ss-6244e20f (Canada)",
+        "🇫🇮 ss-ccb4914a (Finland)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -111,7 +111,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇸🇪 ss-e38bbc2c (Sweden)",
+      "tag": "🇸🇪 ss-724096c8 (Sweden)",
       "server": "135.225.124.80",
       "server_port": 48172,
       "method": "chacha20-ietf-poly1305",
@@ -119,7 +119,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-5040f4e3 (United Kingdom)",
+      "tag": "🇬🇧 ss-7b8fccd4 (United Kingdom)",
       "server": "4.250.243.36",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -127,7 +127,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-42a3b4f3 (United States)",
+      "tag": "🇺🇸 ss-e9b934cf (United States)",
       "server": "104.167.197.25",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
@@ -135,7 +135,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇸🇮 ss-055f8981 (Slovenia)",
+      "tag": "🇸🇮 ss-e6ccd271 (Slovenia)",
       "server": "45.83.131.43",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -143,7 +143,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇨🇦 ss-913712f7 (Canada)",
+      "tag": "🇨🇦 ss-d83b762e (Canada)",
       "server": "142.4.216.225",
       "server_port": 80,
       "method": "chacha20-ietf-poly1305",
@@ -151,7 +151,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇨🇦 ss-ddbbab80 (Canada)",
+      "tag": "🇨🇦 ss-6244e20f (Canada)",
       "server": "ca225.vpnbook.com",
       "server_port": 80,
       "method": "chacha20-ietf-poly1305",
@@ -159,7 +159,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇫🇮 ss-6416cc22 (Finland)",
+      "tag": "🇫🇮 ss-ccb4914a (Finland)",
       "server": "141.98.4.67",
       "server_port": 52952,
       "method": "chacha20-ietf-poly1305",
