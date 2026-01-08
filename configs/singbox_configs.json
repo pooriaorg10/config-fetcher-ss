@@ -79,9 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇸🇪 ss-1fb52b1f (Sweden)",
-        "🇬🇧 ss-f85724bd (United Kingdom)",
-        "🇺🇸 ss-ae34e1e4 (United States)",
+        "🇸🇪 ss-205dff3f (Sweden)",
+        "🇬🇧 ss-952d4268 (United Kingdom)",
+        "🇺🇸 ss-8afb2b42 (United States)",
+        "🇸🇮 ss-1cc0154a (Slovenia)",
+        "🇨🇦 ss-325ff3eb (Canada)",
+        "🇨🇦 ss-cf65e600 (Canada)",
+        "🇫🇮 ss-57a7e0a5 (Finland)",
         "direct"
       ]
     },
@@ -89,9 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇸🇪 ss-1fb52b1f (Sweden)",
-        "🇬🇧 ss-f85724bd (United Kingdom)",
-        "🇺🇸 ss-ae34e1e4 (United States)"
+        "🇸🇪 ss-205dff3f (Sweden)",
+        "🇬🇧 ss-952d4268 (United Kingdom)",
+        "🇺🇸 ss-8afb2b42 (United States)",
+        "🇸🇮 ss-1cc0154a (Slovenia)",
+        "🇨🇦 ss-325ff3eb (Canada)",
+        "🇨🇦 ss-cf65e600 (Canada)",
+        "🇫🇮 ss-57a7e0a5 (Finland)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -103,7 +111,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇸🇪 ss-1fb52b1f (Sweden)",
+      "tag": "🇸🇪 ss-205dff3f (Sweden)",
       "server": "135.225.124.80",
       "server_port": 48172,
       "method": "chacha20-ietf-poly1305",
@@ -111,7 +119,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇬🇧 ss-f85724bd (United Kingdom)",
+      "tag": "🇬🇧 ss-952d4268 (United Kingdom)",
       "server": "4.250.243.36",
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
@@ -119,11 +127,43 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 ss-ae34e1e4 (United States)",
+      "tag": "🇺🇸 ss-8afb2b42 (United States)",
       "server": "104.167.197.25",
       "server_port": 57456,
       "method": "chacha20-ietf-poly1305",
       "password": "360e21d21977dc11"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇮 ss-1cc0154a (Slovenia)",
+      "server": "45.83.131.43",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "HfAiyrdFbKJuKIQkGjvJrDFefmH8YDSC"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 ss-325ff3eb (Canada)",
+      "server": "142.4.216.225",
+      "server_port": 80,
+      "method": "chacha20-ietf-poly1305",
+      "password": "JIhN6rBKkaEboLNXVSv5rq"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇦 ss-cf65e600 (Canada)",
+      "server": "ca225.vpnbook.com",
+      "server_port": 80,
+      "method": "chacha20-ietf-poly1305",
+      "password": "JIhN6rBKkaEboLNXVSv5rq"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇫🇮 ss-57a7e0a5 (Finland)",
+      "server": "141.98.4.67",
+      "server_port": 52952,
+      "method": "chacha20-ietf-poly1305",
+      "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj"
     }
   ],
   "route": {
